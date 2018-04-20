@@ -7,4 +7,3 @@ You're awesome , Fix it or code it from zero am not intending to update a single
 # Installation and usage  
 Read the wiki  
 Am kidding , just find the libraries needed by the script , install it and u r ready to go  
-I wont write long Readme file which might take time more than the time it took to code this thing   
