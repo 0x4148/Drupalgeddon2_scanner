@@ -60,7 +60,7 @@ def scan(host):
 		is_vulnerable1(host)
 
 print "+ Drupal scanner module launched"
-print "! Processing ips from "+siteslistx
+print "! Processing websites from "+siteslistx
 siteslist=open(siteslistx,"r")
 pool = workerpool.WorkerPool(size=100)
 pool.map(scan, siteslist)
